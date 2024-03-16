@@ -1,0 +1,43 @@
+{
+  "mod_elements": [
+    {
+      "name": "TaysEvreythingModCreativeTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tays_evreything_mod_creative_tab",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod Creative Tab"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tays_evreything_mod",
+    "modName": "Tay\u0027s Evreything Mod",
+    "version": "1.0.0",
+    "author": "Taygamerlol, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.taysevreythingmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
