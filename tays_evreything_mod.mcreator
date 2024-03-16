@@ -3,11 +3,39 @@
     {
       "name": "TaysEvreythingModCreativeTab",
       "type": "tab",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tays_evreything_mod_creative_tab",
       "metadata": {
         "files": []
+      }
+    },
+    {
+      "name": "Circuit",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "circuit",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/taysevreythingmod/item/CircuitItem.java",
+          "src/main/resources/assets/tays_evreything_mod/models/item/circuit.json"
+        ]
+      }
+    },
+    {
+      "name": "CircuiitRecipie",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "circuiit_recipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tays_evreything_mod/recipes/circuiit_recipie.json"
+        ]
       }
     }
   ],
@@ -15,6 +43,7 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.tays_evreything_mod.circuit": "Circuit",
       "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod Creative Tab"
     }
   },
