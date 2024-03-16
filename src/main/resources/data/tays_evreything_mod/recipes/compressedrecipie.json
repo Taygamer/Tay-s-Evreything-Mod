@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "tays_evreything_mod:steel_ingot"
+  },
+  "base": {
+    "item": "tays_evreything_mod:steel_plate"
+  },
+  "addition": {
+    "item": "tays_evreything_mod:steel_ingot"
+  },
+  "result": {
+    "item": "tays_evreything_mod:compressed_steel_plate"
+  }
+}

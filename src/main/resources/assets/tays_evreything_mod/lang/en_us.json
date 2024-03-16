@@ -1,4 +1,8 @@
 {
+  "block.tays_evreything_mod.steel_block": "Steel Block",
+  "item.tays_evreything_mod.compressed_steel_plate": "Compressed Steel Plate",
   "item.tays_evreything_mod.circuit": "Circuit",
-  "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod Creative Tab"
+  "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod Creative Tab",
+  "item.tays_evreything_mod.steel_ingot": "Steel",
+  "item.tays_evreything_mod.steel_plate": "Steel Plate"
 }

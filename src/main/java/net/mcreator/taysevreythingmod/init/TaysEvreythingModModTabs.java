@@ -20,6 +20,10 @@ public class TaysEvreythingModModTabs {
 	public static final RegistryObject<CreativeModeTab> TAYS_EVREYTHING_MOD_CREATIVE_TAB = REGISTRY.register("tays_evreything_mod_creative_tab",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.tays_evreything_mod.tays_evreything_mod_creative_tab")).icon(() -> new ItemStack(Blocks.WITHER_SKELETON_SKULL)).displayItems((parameters, tabData) -> {
 				tabData.accept(TaysEvreythingModModItems.CIRCUIT.get());
+				tabData.accept(TaysEvreythingModModItems.STEEL_INGOT.get());
+				tabData.accept(TaysEvreythingModModItems.STEEL_PLATE.get());
+				tabData.accept(TaysEvreythingModModItems.COMPRESSED_STEEL_PLATE.get());
+				tabData.accept(TaysEvreythingModModBlocks.STEEL_BLOCK.get().asItem());
 			})
 
 					.build());

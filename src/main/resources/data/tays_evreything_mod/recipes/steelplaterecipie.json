@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tays_evreything_mod:steel_ingot"
+    },
+    {
+      "item": "tays_evreything_mod:steel_ingot"
+    },
+    {
+      "item": "tays_evreything_mod:steel_ingot"
+    },
+    {
+      "item": "tays_evreything_mod:steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "tays_evreything_mod:steel_plate",
+    "count": 1
+  }
+}

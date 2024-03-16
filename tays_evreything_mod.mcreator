@@ -37,19 +37,207 @@
           "src/main/resources/data/tays_evreything_mod/recipes/circuiit_recipie.json"
         ]
       }
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/taysevreythingmod/item/SteelIngotItem.java",
+          "src/main/resources/assets/tays_evreything_mod/models/item/steel_ingot.json"
+        ]
+      }
+    },
+    {
+      "name": "SteelPlate",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_plate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/taysevreythingmod/item/SteelPlateItem.java",
+          "src/main/resources/assets/tays_evreything_mod/models/item/steel_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "CompressedSteelPlate",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_steel_plate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/taysevreythingmod/item/CompressedSteelPlateItem.java",
+          "src/main/resources/assets/tays_evreything_mod/models/item/compressed_steel_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "SteelBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/taysevreythingmod/block/SteelBlockBlock.java",
+          "src/main/resources/assets/tays_evreything_mod/blockstates/steel_block.json",
+          "src/main/resources/assets/tays_evreything_mod/models/item/steel_block.json",
+          "src/main/resources/assets/tays_evreything_mod/models/block/steel_block.json"
+        ]
+      }
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirt_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/dirt.json"
+        ]
+      },
+      "path": "~/Tags"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/logs.json"
+        ]
+      },
+      "path": "~/Tags"
+    },
+    {
+      "name": "BeaconBaseBlockBlocks",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beacon_base_block_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/beacon_base_blocks.json"
+        ]
+      },
+      "path": "~/Tags"
+    },
+    {
+      "name": "IsOverworldBiomes",
+      "type": "tag",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "is_overworld_biomes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/worldgen/biome/is_overworld.json"
+        ]
+      },
+      "path": "~/Tags"
+    },
+    {
+      "name": "IrontoSteel",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironto_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tays_evreything_mod/recipes/ironto_steel.json"
+        ]
+      }
+    },
+    {
+      "name": "Steelblockrecipie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steelblockrecipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tays_evreything_mod/recipes/steelblockrecipie.json"
+        ]
+      }
+    },
+    {
+      "name": "Reverse1",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reverse_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tays_evreything_mod/recipes/reverse_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Steelplaterecipie",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steelplaterecipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tays_evreything_mod/recipes/steelplaterecipie.json"
+        ]
+      }
+    },
+    {
+      "name": "Compressedrecipie",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressedrecipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tays_evreything_mod/recipes/compressedrecipie.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.tays_evreything_mod.steel_block": "Steel Block",
+      "item.tays_evreything_mod.compressed_steel_plate": "Compressed Steel Plate",
       "item.tays_evreything_mod.circuit": "Circuit",
-      "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod Creative Tab"
+      "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod Creative Tab",
+      "item.tays_evreything_mod.steel_ingot": "Steel",
+      "item.tays_evreything_mod.steel_plate": "Steel Plate"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Tags",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "tays_evreything_mod",

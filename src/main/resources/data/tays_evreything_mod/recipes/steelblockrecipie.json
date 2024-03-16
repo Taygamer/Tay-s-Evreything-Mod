@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "tays_evreything_mod:steel_ingot"
+    },
+    "b": {
+      "item": "tays_evreything_mod:steel_plate"
+    }
+  },
+  "result": {
+    "item": "tays_evreything_mod:steel_block",
+    "count": 1
+  }
+}

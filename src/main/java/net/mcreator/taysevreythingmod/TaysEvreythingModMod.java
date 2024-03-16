@@ -31,6 +31,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.taysevreythingmod.init.TaysEvreythingModModTabs;
 import net.mcreator.taysevreythingmod.init.TaysEvreythingModModItems;
+import net.mcreator.taysevreythingmod.init.TaysEvreythingModModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -49,6 +50,8 @@ public class TaysEvreythingModMod {
 	public TaysEvreythingModMod() {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		TaysEvreythingModModBlocks.REGISTRY.register(bus);
 
 		TaysEvreythingModModItems.REGISTRY.register(bus);
 
