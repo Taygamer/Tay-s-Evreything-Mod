@@ -2,9 +2,9 @@
   "_fv": 57,
   "_type": "tab",
   "definition": {
-    "name": "Tay's Evreything Mod Creative Tab",
+    "name": "Tay's Evreything Mod ",
     "icon": {
-      "value": "Blocks.SKULL#1"
+      "value": "Blocks.AIR"
     },
     "showSearch": false
   }

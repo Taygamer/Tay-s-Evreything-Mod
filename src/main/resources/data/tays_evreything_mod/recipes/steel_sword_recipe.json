@@ -1,24 +1,24 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "equipment",
   "pattern": [
-    "aba",
-    "bcb",
-    "aba"
+    "a",
+    "b",
+    "c"
   ],
   "key": {
     "a": {
       "item": "tays_evreything_mod:steel_ingot"
     },
     "b": {
-      "item": "tays_evreything_mod:compressed_steel_plate"
+      "item": "tays_evreything_mod:steel_plate"
     },
     "c": {
-      "item": "tays_evreything_mod:steel_plate"
+      "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "tays_evreything_mod:steel_block",
+    "item": "tays_evreything_mod:steel_sword",
     "count": 1
   }
 }

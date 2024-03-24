@@ -8,41 +8,41 @@
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "craftingBookCategory": "MISC",
+    "craftingBookCategory": "EQUIPMENT",
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:SteelIngot"
-      },
-      {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": ""
       },
       {
         "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": ""
+      },
+      {
+        "value": ""
       },
       {
         "value": "CUSTOM:SteelPlate"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": ""
       },
       {
-        "value": "CUSTOM:SteelIngot"
+        "value": ""
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": "Items.STICK"
       },
       {
-        "value": "CUSTOM:SteelIngot"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SteelBlock"
+      "value": "CUSTOM:SteelSword"
     },
-    "name": "steelblockrecipie",
+    "name": "steel_sword_recipe",
     "namespace": "mod"
   }
 }

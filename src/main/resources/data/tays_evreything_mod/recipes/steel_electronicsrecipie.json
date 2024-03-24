@@ -3,8 +3,8 @@
   "category": "misc",
   "pattern": [
     "aba",
-    "bcb",
-    "aba"
+    "cdc",
+    "aca"
   ],
   "key": {
     "a": {
@@ -15,10 +15,13 @@
     },
     "c": {
       "item": "tays_evreything_mod:steel_plate"
+    },
+    "d": {
+      "item": "tays_evreything_mod:circuit"
     }
   },
   "result": {
-    "item": "tays_evreything_mod:steel_block",
+    "item": "tays_evreything_mod:steel_electronics",
     "count": 1
   }
 }

@@ -8,41 +8,41 @@
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "craftingBookCategory": "MISC",
+    "craftingBookCategory": "EQUIPMENT",
     "recipeShapeless": false,
     "recipeSlots": [
       {
         "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": "CUSTOM:SteelIngot"
       },
       {
         "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:SteelPlate"
-      },
-      {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": ""
       },
       {
         "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": "CUSTOM:SteelIngot"
+      },
+      {
+        "value": ""
       },
       {
         "value": "CUSTOM:SteelIngot"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SteelBlock"
+      "value": "CUSTOM:SteelArmor.legs"
     },
-    "name": "steelblockrecipie",
+    "name": "steel_armor_leggings_recipe",
     "namespace": "mod"
   }
 }

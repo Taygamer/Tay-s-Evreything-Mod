@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "tays_evreything_mod:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "tays_evreything_mod:steel_armor_boots",
+    "count": 1
+  }
+}

@@ -1,8 +1,18 @@
 {
   "block.tays_evreything_mod.steel_block": "Steel Block",
-  "item.tays_evreything_mod.compressed_steel_plate": "Compressed Steel Plate",
+  "item.tays_evreything_mod.steel_armor_leggings": "Steel Leggings",
   "item.tays_evreything_mod.circuit": "Circuit",
-  "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod Creative Tab",
+  "item.tays_evreything_mod.steel_axe": "Steel Axe",
+  "item_group.tays_evreything_mod.tays_evreything_mod_creative_tab": "Tay\u0027s Evreything Mod ",
   "item.tays_evreything_mod.steel_ingot": "Steel",
+  "item.tays_evreything_mod.steel_shovel": "Steel Shovel",
+  "item.tays_evreything_mod.steel_electronics": "Steel Electronics",
+  "item.tays_evreything_mod.steel_armor_boots": "Steel Boots",
+  "item.tays_evreything_mod.steel_armor_chestplate": "Steel Chestplate",
+  "item.tays_evreything_mod.compressed_steel_plate": "Compressed Steel Plate",
+  "item.tays_evreything_mod.steel_sword": "Steel Sword",
+  "item.tays_evreything_mod.steel_pickaxe": "Steel Pickaxe",
+  "item.tays_evreything_mod.steel_hoe": "Steel Hoe",
+  "item.tays_evreything_mod.steel_armor_helmet": "Steel Helmet",
   "item.tays_evreything_mod.steel_plate": "Steel Plate"
 }

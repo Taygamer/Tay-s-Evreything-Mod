@@ -21,28 +21,28 @@
         "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": "CUSTOM:SteelPlate"
+      },
+      {
+        "value": "CUSTOM:Circuit"
       },
       {
         "value": "CUSTOM:SteelPlate"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
-      },
-      {
         "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:CompressedSteelPlate"
+        "value": "CUSTOM:SteelPlate"
       },
       {
         "value": "CUSTOM:SteelIngot"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SteelBlock"
+      "value": "CUSTOM:SteelElectronics"
     },
-    "name": "steelblockrecipie",
+    "name": "steel_electronicsrecipie",
     "namespace": "mod"
   }
 }
