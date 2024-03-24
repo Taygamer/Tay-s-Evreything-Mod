@@ -21,6 +21,7 @@ import net.mcreator.taysevreythingmod.item.SteelHoeItem;
 import net.mcreator.taysevreythingmod.item.SteelElectronicsItem;
 import net.mcreator.taysevreythingmod.item.SteelAxeItem;
 import net.mcreator.taysevreythingmod.item.SteelArmorItem;
+import net.mcreator.taysevreythingmod.item.IonItem;
 import net.mcreator.taysevreythingmod.item.CompressedSteelPlateItem;
 import net.mcreator.taysevreythingmod.item.CircuitItem;
 import net.mcreator.taysevreythingmod.TaysEvreythingModMod;
@@ -42,6 +43,7 @@ public class TaysEvreythingModModItems {
 	public static final RegistryObject<Item> STEEL_ARMOR_LEGGINGS = REGISTRY.register("steel_armor_leggings", () -> new SteelArmorItem.Leggings());
 	public static final RegistryObject<Item> STEEL_ARMOR_BOOTS = REGISTRY.register("steel_armor_boots", () -> new SteelArmorItem.Boots());
 	public static final RegistryObject<Item> STEEL_ELECTRONICS = REGISTRY.register("steel_electronics", () -> new SteelElectronicsItem());
+	public static final RegistryObject<Item> ION_CROSSBOW = REGISTRY.register("ion_crossbow", () -> new IonItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

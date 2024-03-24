@@ -34,6 +34,7 @@ public class TaysEvreythingModModTabs {
 				tabData.accept(TaysEvreythingModModItems.STEEL_ARMOR_LEGGINGS.get());
 				tabData.accept(TaysEvreythingModModItems.STEEL_ARMOR_BOOTS.get());
 				tabData.accept(TaysEvreythingModModItems.STEEL_ELECTRONICS.get());
+				tabData.accept(TaysEvreythingModModItems.ION_CROSSBOW.get());
 			})
 
 					.build());

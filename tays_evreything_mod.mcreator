@@ -23,7 +23,8 @@
           "src/main/java/net/mcreator/taysevreythingmod/item/CircuitItem.java",
           "src/main/resources/assets/tays_evreything_mod/models/item/circuit.json"
         ]
-      }
+      },
+      "path": "~/Circuit"
     },
     {
       "name": "CircuiitRecipie",
@@ -36,7 +37,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/circuiit_recipie.json"
         ]
-      }
+      },
+      "path": "~/Circuit"
     },
     {
       "name": "SteelIngot",
@@ -50,7 +52,8 @@
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelIngotItem.java",
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_ingot.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelPlate",
@@ -64,7 +67,8 @@
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelPlateItem.java",
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_plate.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "CompressedSteelPlate",
@@ -78,7 +82,8 @@
           "src/main/java/net/mcreator/taysevreythingmod/item/CompressedSteelPlateItem.java",
           "src/main/resources/assets/tays_evreything_mod/models/item/compressed_steel_plate.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelBlock",
@@ -94,7 +99,8 @@
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_block.json",
           "src/main/resources/assets/tays_evreything_mod/models/block/steel_block.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "DirtBlocks",
@@ -163,7 +169,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/ironto_steel.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "Steelblockrecipie",
@@ -176,7 +183,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steelblockrecipie.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "Reverse1",
@@ -189,7 +197,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/reverse_1.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "Steelplaterecipie",
@@ -202,7 +211,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steelplaterecipie.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "Compressedrecipie",
@@ -215,7 +225,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/compressedrecipie.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelArmor",
@@ -232,7 +243,8 @@
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_armor_leggings.json",
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_armor_boots.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelArmorHelmetRecipe",
@@ -245,7 +257,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_armor_helmet_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelArmorChestplateRecipe",
@@ -258,7 +271,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_armor_chestplate_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelArmorLeggingsRecipe",
@@ -271,7 +285,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_armor_leggings_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelArmorBootsRecipe",
@@ -284,7 +299,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_armor_boots_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelPickaxe",
@@ -298,7 +314,8 @@
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelPickaxeItem.java",
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_pickaxe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelAxe",
@@ -312,7 +329,8 @@
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_axe.json",
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelAxeItem.java"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelSword",
@@ -326,7 +344,8 @@
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_sword.json",
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelSwordItem.java"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelShovel",
@@ -340,7 +359,8 @@
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_shovel.json",
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelShovelItem.java"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelHoe",
@@ -354,7 +374,8 @@
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_hoe.json",
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelHoeItem.java"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelPickaxeRecipe",
@@ -367,7 +388,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_pickaxe_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelAxeRecipe",
@@ -380,7 +402,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_axe_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelSwordRecipe",
@@ -393,7 +416,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_sword_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelShovelRecipe",
@@ -406,7 +430,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_shovel_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelHoeRecipe",
@@ -419,7 +444,8 @@
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_hoe_recipe.json"
         ]
-      }
+      },
+      "path": "~/Steel"
     },
     {
       "name": "SteelElectronics",
@@ -433,7 +459,8 @@
           "src/main/java/net/mcreator/taysevreythingmod/item/SteelElectronicsItem.java",
           "src/main/resources/assets/tays_evreything_mod/models/item/steel_electronics.json"
         ]
-      }
+      },
+      "path": "~/Circuit"
     },
     {
       "name": "SteelElectronicsrecipie",
@@ -445,6 +472,40 @@
       "metadata": {
         "files": [
           "src/main/resources/data/tays_evreything_mod/recipes/steel_electronicsrecipie.json"
+        ]
+      },
+      "path": "~/Circuit"
+    },
+    {
+      "name": "Ion",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ion_crossbow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tays_evreything_mod/models/item/ion_crossbow.json",
+          "src/main/java/net/mcreator/taysevreythingmod/item/IonItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IonCartridgeRightclicked",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ion_cartridge_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/taysevreythingmod/procedures/IonCartridgeRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
         ]
       }
     }
@@ -468,7 +529,8 @@
       "item.tays_evreything_mod.steel_pickaxe": "Steel Pickaxe",
       "item.tays_evreything_mod.steel_hoe": "Steel Hoe",
       "item.tays_evreything_mod.steel_armor_helmet": "Steel Helmet",
-      "item.tays_evreything_mod.steel_plate": "Steel Plate"
+      "item.tays_evreything_mod.steel_plate": "Steel Plate",
+      "item.tays_evreything_mod.ion_crossbow": "Ion Crossbow"
     }
   },
   "foldersRoot": {
@@ -476,6 +538,14 @@
     "children": [
       {
         "name": "Tags",
+        "children": []
+      },
+      {
+        "name": "Steel",
+        "children": []
+      },
+      {
+        "name": "Circuit",
         "children": []
       }
     ]
